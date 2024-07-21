@@ -1,0 +1,25 @@
+{
+    "backend":[
+        {
+            "name":"Spring Boot",
+            "logo":"https://api.iconify.design/logos:spring-icon.svg"
+        },
+        {
+            "name":"Prisma",
+            "logo":"https://api.iconify.design/logos:prisma.svg"
+        },
+        {
+            "name":"PostgreSQL",
+            "logo":"https://api.iconify.design/logos:postgresql.svg"
+        },
+        {
+            "name": "MySQL",
+            "logo": "https://api.iconify.design/logos:mysql.svg"
+        },
+        {
+            "name":"Firebase",
+            "logo":"https://api.iconify.design/logos:firebase.svg"
+        }
+        
+    ]
+}

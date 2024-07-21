@@ -1,0 +1,36 @@
+{
+  "frontend": [
+    {
+      "name": "JavaScript",
+      "logo": "https://api.iconify.design/logos:javascript.svg"
+    },
+    {
+      "name": "TypeScript",
+      "logo": "https://api.iconify.design/logos:typescript-icon.svg"
+    },
+    {
+      "name": "HTML",
+      "logo": "https://api.iconify.design/logos:html-5.svg"
+    },
+    {
+      "name": "CSS",
+      "logo": "https://api.iconify.design/logos:css-3.svg"
+    },
+    {
+      "name": "Tailwind CSS",
+      "logo": "https://api.iconify.design/logos:tailwindcss-icon.svg"
+    },
+    {
+      "name": "React",
+      "logo": "https://api.iconify.design/logos:react.svg"
+    },
+    {
+      "name": "Qwik",
+      "logo": "https://api.iconify.design/logos:qwik.svg"
+    },
+    {
+      "name": "Git",
+      "logo": "https://api.iconify.design/logos:git-icon.svg"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "projects": [
+    {
+      "title": "Delifood -Landing Page de para restaurante",
+      "description": "Landing Page para restaurante",
+      "technologies": ["React", "Tailwind", "React", "Tailwind"],
+      "image": "/src/assets/images/web1.png",
+      "github_repo": "https://github.com/Jpulido6/delifood-qwikapp",
+      "cloud_deploy": "https://deli-food.netlify.app/"
+    },    
+    {
+      "title": "Teslo Shop - E-commerce",
+      "description": "Desarrollo de una aplicación web para una tienda de ropa. La plataforma incluye funcionalidades como carrito de compras, sistema de pago seguro y panel de administración.",
+      "technologies": [
+        "React",
+        "Tailwind",
+        "Zustand",
+        "Tanstack Query",
+        "Docker"
+      ],
+      "image": "/src/assets/images/web2.png",
+      "github_repo": "https://github.com/usuario/repositorio",
+      "cloud_deploy": "https://www.ejemplo.com/proyecto3"
+    },
+    {
+      "title": "TV CABLE SANJOSE -Sistema de Facturación ",
+      "description": "Sistema de facturación para una empresa de television por cable. Permite a los usuarios crear facturas, agregar, editar y eliminar usuarios, control de finanzas y realizar pagos.",
+      "technologies": [
+        "React",
+        "Tailwind",
+        "Electron",
+        "Tanstack Query",
+        "React-pdf"
+      ],
+      "image": "/src/assets/images/web3.png",
+      "github_repo": "https://github.com/Jpulido6/tv-cable-electron"      
+    }
+  ]
+}
