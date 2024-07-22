@@ -29,6 +29,7 @@ function App() {
 
                 interval = setInterval(() => {
                     element.innerText = element.innerText.split('').map((letter, index) => {
+                        console.log(letter)
                         if (index < iteration) {
                             return element.dataset.value![index];
                         }

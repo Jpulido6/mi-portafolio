@@ -55,7 +55,7 @@ const Particles = () => {
                                         enable: false,
                                         mode: "repulse",
                                     },
-                                    resize: true,
+                                    
                                 },
                                 modes: {
                                     push: {
