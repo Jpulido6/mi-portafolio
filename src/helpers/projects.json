@@ -4,7 +4,7 @@
       "title": "Delifood -Landing Page de para restaurante",
       "description": "Landing Page para restaurante",
       "technologies": ["React", "Tailwind", "React", "Tailwind"],
-      "image": "/src/assets/images/web1.png",
+      "image": "/public/assets/images/web1.png",
       "github_repo": "https://github.com/Jpulido6/delifood-qwikapp",
       "cloud_deploy": "https://deli-food.netlify.app/"
     },    
@@ -18,7 +18,7 @@
         "Tanstack Query",
         "Docker"
       ],
-      "image": "/src/assets/images/web2.png",
+      "image": "/public/assets/images/web2.png",
       "github_repo": "https://github.com/usuario/repositorio",
       "cloud_deploy": "https://www.ejemplo.com/proyecto3"
     },
@@ -32,7 +32,7 @@
         "Tanstack Query",
         "React-pdf"
       ],
-      "image": "/src/assets/images/web3.png",
+      "image": "/public/assets/images/web3.png",
       "github_repo": "https://github.com/Jpulido6/tv-cable-electron"      
     }
   ]
